@@ -1,3 +1,5 @@
 gpiozero
 RPi.GPIO
 tk
+autopep8
+colorzero
